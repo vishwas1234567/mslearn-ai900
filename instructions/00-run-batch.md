@@ -1,3 +1,5 @@
+## Get latest files 
+
 1. First we will run a short program that pulls the latest version of the lab files. On the desktop, look for the file **get-files.bat** and double click on it. This will run a command. Once the command runs, you can close the panel.
 
 2.  Start Visual Studio Code (the program icon is pinned to the bottom taskbar). 
