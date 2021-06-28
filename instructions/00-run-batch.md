@@ -6,4 +6,4 @@
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
-3. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel. This file contains the labs for the course. 
+3. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel. This file contains the labs for the course. **Note:** When you open Visual Studio Code, you may be prompted to answer _Do you trust the authors of the file in this folder?_. Select **Trust the authors of all files in the parent folder 'Documents'** and select **Yes I trust the authors**.
