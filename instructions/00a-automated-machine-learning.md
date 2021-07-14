@@ -10,8 +10,7 @@ In this lab we will look at how to use automated machine learning in Azure Machi
 
 - Create an Azure Machine Learning workspace
 - Create compute resources
-- Explore data (**Note**: To save the dataset as a local file, click on the provided Web URL. In the web page display of the data, _right click_, select _Save As_. Notice the folder, notice the file name, see that the type is a CSV file, then Save.) 
-   
+- Explore data 
 - Train a machine learning model 
 - Deploy a model as a service 
 
