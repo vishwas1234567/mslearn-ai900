@@ -4,8 +4,10 @@ lab:
 ---
 
 ## Instructions
-In this lab we will be looking at guidelines for Responsible AI.
+Let us take a look at Microsoft's Responsible AI Principles.
 
-1.	Go to [Guidelines for Human-AI Interaction demo](https://aka.ms/hci-demo)
-2.	Pick cards from each deck and review the example scenarios.
-3.	Identify the Responsible AI principle(s) that the examples represent.
+1.	Go to [Understand Responsible AI](https://docs.microsoft.com/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.get-started-with-artificial-intelligence-on-azure).
+2.	Review the descriptions of each of the six principles.
+3.	Can you identify how the principles are distinct from one another?
+
+You can also learn more about Responsible AI at Microsoft [here](https://www.microsoft.com/ai/responsible-ai).
