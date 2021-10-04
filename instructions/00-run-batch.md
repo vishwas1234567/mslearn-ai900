@@ -6,4 +6,4 @@
 
 ![Visual Studio Code Icon](./images/vscode.jpg)
 
-3. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel. This file contains the labs for the course. 
+3. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel. This folder contains the labs for the course. 
